@@ -17,10 +17,5 @@ build/
 dist/
 *.egg-info/
 
-# Local outputs
-artifacts/*.json
-artifacts/*.csv
-artifacts/*.txt
-
 # Streamlit secrets
 .streamlit/secrets.toml
