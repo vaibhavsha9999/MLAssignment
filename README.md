@@ -43,7 +43,7 @@ Overall, the winner for this dataset is Logistic Regression because it has the b
 ## e. Deployment and Streamlit app
 The application is implemented in app.py and loads saved trained models from the model directory. It allows users to upload a CSV file containing the required features and target column, then evaluates the selected model without retraining on the uploaded data.
 
-Live Streamlit App Link: Deployment pending after community cloud setup.
+Live Streamlit App Link: https://mlassignment-jrhymzsxaewjudyww6sdag.streamlit.app/
 
 ## f. Repository structure
 - app.py: Streamlit interface for model selection and evaluation
